@@ -1,6 +1,6 @@
-# Website to Wordcloud
+# Website to Word Cloud
 
-Generate a wordcloud image file from website url.
+Generate a word cloud image file from website url.
 
 Usage
 ```
